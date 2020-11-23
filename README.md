@@ -1,6 +1,6 @@
 # OS-Multidecadal_Polynya
 
-Multidecadal Preconditioning of the Maud Rise Polynya Region, Ocean Science (2020, https://os.copernicus.org/preprints/os-2020-25/)
+Multidecadal Preconditioning of the Maud Rise Polynya Region, Ocean Science (2020, https://os.copernicus.org/articles/16/1443/2020/)
 
 René M. van Westen and Henk A. Dijkstra
 
